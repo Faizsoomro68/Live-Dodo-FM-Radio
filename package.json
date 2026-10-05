@@ -1,0 +1,14 @@
+{
+  "name": "@Faizsoomro68/live-dodo-fm-radio",
+  "version": "1.0.0",
+  "description": "Live Dodo FM Radio package",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faizsoomro68/Live-Dodo-FM-Radio.git"
+  },
+  "license": "MIT"
+}
